@@ -2,7 +2,7 @@
 
 This app allows a user to convert currencies. The app was built using react.js and uses an external api to provide it with current exchange rate data.
 
-![Screenshot (87)](https://github.com/johnnyd81/currency-converter/assets/95863021/3881b45e-a67f-49cd-ac65-04cc39631861)
+![Screenshot (88)](https://github.com/johnnyd81/currency-converter/assets/95863021/a2d05273-47fd-4386-9ae9-835969592e0f)
 
 ## Running the Code Locally
 Clone / Download the project to your computer.
