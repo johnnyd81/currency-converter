@@ -8,6 +8,7 @@ function App() {
   const [converted, setConverted] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
+  //the useEffect fetches data from the currency api when the fromCurrency, toCurrency and amount state values change
   useEffect(() => {
     const convertAmount = async () => {
       setIsLoading(true);
