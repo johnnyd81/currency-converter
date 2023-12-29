@@ -8,7 +8,7 @@ This currency app enables a user to convert between popular world currencies i.e
 Clone / Download the project to your computer.
 
 ## Starting the code
-Open command prompt / terminal for the project folder and then you can run:
+Open the command prompt / terminal for the project folder and then you can run:
 
 ### npm install
 This will install the node dependencies. Then you can run:
