@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Header from "./components/Header";
 
 function App() {
+  //the state variables that keep track of important data are listed below
   const [fromCurrency, setFromCurrency] = useState("EUR");
   const [toCurrency, setToCurrency] = useState("USD");
   const [amount, setAmount] = useState(1);
