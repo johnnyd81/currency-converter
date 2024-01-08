@@ -9,7 +9,7 @@ body {
   background-color: rgb(47, 49, 49);
 }
 /*
-flexbox is used for the layout of the app
+flexbox is used to lay out the app in a column direction
 */
 .app {
   display: flex;
