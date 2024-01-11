@@ -10,6 +10,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
 
   //the useEffect fetches data from the currency api when the fromCurrency, toCurrency and amount state values change at any point
+  //the dependency array of the useEffect method contains variables that cause the useEffect method to be ran again if they change at any point
   useEffect(() => {
     const convertAmount = async () => {
       setIsLoading(true);
