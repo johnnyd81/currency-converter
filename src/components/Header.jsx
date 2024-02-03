@@ -1,5 +1,5 @@
 import React from "react";
-//the Header component gives information and usage instructions for the app 
+//the Header component gives information and usage instructions on how the app should be used 
 const Header = () => {
   return (
     <div>
