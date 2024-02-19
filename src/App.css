@@ -10,7 +10,7 @@ body {
   background-color: rgb(47, 49, 49);
 }
 /*
-flexbox is used to lay out the app in a column direction on the webpage
+flexbox is used to align the app in a column direction on the webpage
 */
 .app {
   display: flex;
