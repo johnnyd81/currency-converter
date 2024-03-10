@@ -42,7 +42,7 @@ input {
   margin-top: 25px;
 }
 
-/* styles the onscreen message that is shown to the user when the amount is converted */
+/* styles the onscreen message that is shown to the user when the currency amount is converted */
 .convertMsg {
   display: flex;
   justify-content: space-between;
