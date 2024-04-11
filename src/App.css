@@ -33,7 +33,7 @@ flexbox is used to align the app in a column direction in the user interface
 .detail {
   font-size: 1rem;
 }
-
+//adjusts the height of the amount input component
 input {
   height: 27px;
 }
