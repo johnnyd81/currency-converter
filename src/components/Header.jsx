@@ -1,5 +1,6 @@
 import React from "react";
 //the Header component provides information and usage instructions on how the app should be used to check currencies
+//currency data is in real time
 const Header = () => {
   return (
     <div>
