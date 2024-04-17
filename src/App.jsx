@@ -28,7 +28,8 @@ function App() {
     if (fromCurrency === toCurrency) return setConverted(amount);
     convertAmount();
   }, [fromCurrency, toCurrency, amount]);
-
+  
+//any changes in the inputs are handled using the handleChange function below
   const handleChange = (e) => {
     if (e.target.name === "from") {
       setFromCurrency(e.target.value);
