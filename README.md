@@ -1,6 +1,6 @@
 # Currency converter
 
-This international currency converter application enables a user to convert between popular world currencies i.e. Pound, US Dollar, Euro etc. The app was built using react.js and uses an external currency api to provide it with real time global currency data. 
+This currency converter application enables a user to convert between popular world currencies i.e. Pound, US Dollar, Euro etc. The app was built using react.js and uses an external currency api to provide it with real time global currency data. 
 
 ![Screenshot (88)](https://github.com/johnnyd81/currency-converter/assets/95863021/a2d05273-47fd-4386-9ae9-835969592e0f)
 
