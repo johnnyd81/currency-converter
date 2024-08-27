@@ -20,7 +20,8 @@ function App() {
         `https://api.frankfurter.app/latest?amount=${amount}&from=${fromCurrency}&to=${toCurrency}`
       );
       const json = await res.json();
-
+      
+      //if response is successful
       if (res.ok) {
         console.log(json);
         setConverted(json.rates[toCurrency]);
